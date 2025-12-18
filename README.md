@@ -2,7 +2,7 @@
 
 Reflection:
 	
-What was the problem you were solving in the projects for this course?:
+What was the problem you were solving in the projects for this course?
 	
 The problem I was solving in this course was how to identify the most efficient data structures for handling file based data and how to implement them correctly. This involved selecting structures that could support fast searches, sort output, and scale as the data set grows, while also analyzing their time and space complexity using Big-O notation to understand how each approach would perform as the number of courses increased.
 
